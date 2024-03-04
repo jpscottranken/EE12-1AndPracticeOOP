@@ -1,0 +1,16 @@
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\bin\Debug\net8.0-windows\EmployeeOOP2.exe
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\bin\Debug\net8.0-windows\EmployeeOOP2.deps.json
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\bin\Debug\net8.0-windows\EmployeeOOP2.runtimeconfig.json
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\bin\Debug\net8.0-windows\EmployeeOOP2.dll
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\bin\Debug\net8.0-windows\EmployeeOOP2.pdb
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\obj\Debug\net8.0-windows\EmployeeOOP2.frmEmployee.resources
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\obj\Debug\net8.0-windows\EmployeeOOP2.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\obj\Debug\net8.0-windows\EmployeeOOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\obj\Debug\net8.0-windows\EmployeeOOP2.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\obj\Debug\net8.0-windows\EmployeeOOP2.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\obj\Debug\net8.0-windows\EmployeeOOP2.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\obj\Debug\net8.0-windows\EmployeeOOP2.dll
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\obj\Debug\net8.0-windows\refint\EmployeeOOP2.dll
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\obj\Debug\net8.0-windows\EmployeeOOP2.pdb
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\obj\Debug\net8.0-windows\EmployeeOOP2.genruntimeconfig.cache
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\EmployeeOOP2\obj\Debug\net8.0-windows\ref\EmployeeOOP2.dll

@@ -1,0 +1,16 @@
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\bin\Debug\net8.0-windows\BMIOOP1.exe
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\bin\Debug\net8.0-windows\BMIOOP1.deps.json
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\bin\Debug\net8.0-windows\BMIOOP1.runtimeconfig.json
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\bin\Debug\net8.0-windows\BMIOOP1.dll
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\bin\Debug\net8.0-windows\BMIOOP1.pdb
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\obj\Debug\net8.0-windows\BMIOOP1.frmBMI.resources
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\obj\Debug\net8.0-windows\BMIOOP1.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\obj\Debug\net8.0-windows\BMIOOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\obj\Debug\net8.0-windows\BMIOOP1.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\obj\Debug\net8.0-windows\BMIOOP1.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\obj\Debug\net8.0-windows\BMIOOP1.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\obj\Debug\net8.0-windows\BMIOOP1.dll
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\obj\Debug\net8.0-windows\refint\BMIOOP1.dll
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\obj\Debug\net8.0-windows\BMIOOP1.pdb
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\obj\Debug\net8.0-windows\BMIOOP1.genruntimeconfig.cache
+C:\Users\jpscott\Desktop\EE12-1AndPracticeOOP\EE`12-1\BMIOOP1\obj\Debug\net8.0-windows\ref\BMIOOP1.dll
